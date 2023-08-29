@@ -1,0 +1,70 @@
+
+
+.flexbox {
+  display: grid;
+  place-content: center;
+  gap: 20px;
+ }
+
+
+ .title{
+ 
+   color: white;
+   text-align: center;
+   font-family: Lexend, sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    letter-spacing: 0em;
+
+
+ }
+
+ .contenedorflotante input{
+  width: 325px;
+  height: 69px;
+  border-radius: 15px;
+  border: none;
+ }
+
+ .contenedorflotante input[type="INPUT"] {
+   width: 290px;
+   height: 44px;
+   margin-bottom: -1px;
+   border-bottom-right-radius: 0;
+   border-bottom-left-radius: 0;
+   color: var(--negro);
+   gap: 40px;
+   font-family: 'Lexend';
+   font-size: 15px;
+   font-weight: 500;
+   line-height: 28px;
+   letter-spacing: 0em;
+   text-align: left;
+   font-family: Lexend, sans-serif;
+   
+ }
+
+
+ .contenedorflotante input[type="password"] {
+   font-family: Lexend, sans-serif;
+   width: 290px;
+   height: 44pX;
+   border-top-left-radius: 0;
+   border-top-right-radius: 0;
+   gap: 21px;
+   font-family: 'Lexend';
+   font-size: 15px;
+   font-weight: 500;
+   line-height: 28px;
+   letter-spacing: 0em;
+   text-align: left;
+ }
+.seguimiento{
+  display: grid;
+  place-content: center;
+  color: white;
+  font-family: Lexend, sans-serif;
+  gap: 10px;
+
+
+}

@@ -1,0 +1,48 @@
+.container{
+
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr 1fr;
+  gap: 10px; /* Ajusta el espacio entre los botones */
+  align-items: center;
+  justify-items: center;
+}
+
+
+
+
+.botonComp1{
+  background-image: url('/Image/btn1.png');
+  background-size: cover;
+  border: none;
+  color: white;
+  width:220px;
+  height:200px;
+  
+
+}
+.botonComp2{
+  background-image: url('/Image/btn2.png');
+  background-size: cover;
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  width:220px;
+  height:200px;
+}.botonComp3{
+  background-image: url('/Image/btn3.png');
+  background-size: cover;
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  width:220px;
+  height:200px;
+}.botonComp4{
+  background-image: url('/Image/btn4.png');
+  background-size: cover;
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  width:220px;
+  height:200px;
+}

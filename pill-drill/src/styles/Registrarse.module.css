@@ -1,0 +1,119 @@
+
+
+.flexbox {
+ 
+  display: grid;
+  place-content: center;
+  gap: 20px;
+  
+}
+
+ .title{
+ 
+   color: white;
+   font-family: Lexend, sans-serif;
+    font-size: 38px;
+    font-weight: 600;
+    letter-spacing: 0em;
+  
+
+
+ }
+
+
+ .contenedorflotante input{
+  
+  width: 292px;
+  height: 55px;
+  border-radius: 15px;
+  border: none;
+
+  
+
+ }
+
+  .contenedorflotante input[type="INPUT"] {
+    font-family: Lexend, sans-serif;
+    width: 290px;
+    height: 44px;
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    color: var(--negro);
+    gap: 40px;
+    font-family: 'Lexend';
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+  }
+
+
+  .contenedorflotante input[type="password"] {
+    font-family: Lexend, sans-serif;
+    width: 290px;
+    height: 44pX;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    gap: 21px;
+    font-family: 'Lexend';
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+.seguimiento
+{
+  font-family: Lexend, sans-serif;
+   color: white;
+    width: 393px;
+    height: 76px;
+    top: 641px;
+    left: 523px;
+    font-family: Lexend;
+    font-size: 17px;
+    font-weight: 500px;
+    line-height: 50px;
+    letter-spacing: 0em;
+    
+    
+}
+
+.checkBox{
+
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: left;  
+  color: aliceblue;
+  font-family: Lexend, sans-serif;
+}
+.IR
+{
+  
+  background: rgba(230, 221, 214, 1);
+  border-radius: 15px;
+  background: rgba(230, 221, 214, 1);
+  width: 100px;
+  height: 40px;
+  flex-shrink: 0;
+  border: none;
+  
+}
+.labels{
+  color: white;
+  font-size: 20px;
+ 
+  /*
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  height: 100px;
+  */
+
+}

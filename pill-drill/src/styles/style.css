@@ -1,0 +1,12 @@
+
+:root{
+    --violeta: #9370DB;
+    --celeste: #87CEFA;
+    --Azul:#4169E1;
+    --negro:#000000;
+    --blanco: #FFF;
+    --fuente-principal: 'Outfit', sans-serif;
+    background: linear-gradient(180deg, #4548AA 0%, rgba(69, 72, 170, 0.72) 73.44%); 
+}
+
+
